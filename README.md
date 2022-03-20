@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeel_bhanderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeel_bhanderi" height="30" width="40" /></a>
-<a href="https://instagram.com/zeel_bhanderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeel_bhanderi" height="30" width="40" /></a>
+<a href="https://instagram.com/zeel_bhanderi._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeel_bhanderi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zeel_bhanderi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeel_bhanderi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@zeelbhanderi28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zeelbhanderi28" height="30" width="40" /></a>
 <a href="https://discord.gg/zeel_bhanderi#5835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeel_bhanderi#5835" height="30" width="40" /></a>
