@@ -17,10 +17,10 @@
 
 <h3>Certificate</h3>
     <h4>CCC</h4>
-        <ul>CCC Certificate S K Computer Academy<a href="CCC.pdf">[Certificate]</a>
+        <ul>CCC Certificate S K Computer Academy<a href="https://drive.google.com/file/d/1-BPRRuUH1BnYgNfH6qnrzr9sb4lbgA5V/view?usp=sharing">[Certificate]</a>
     <ul>C Programming</ul>
         <li>C Programming S K Computer Academy<a href="https://drive.google.com/file/d/1-PwN-hoBhsAU3rF1m3dMY0ByJvkkmqOm/view?usp=sharing">[Certificate]</a>
-        <li>C Programming Programming Hub Certifies<a href="/Certificates/C Programming/Zeel_C Programming.pdf">[Certificate]</a>
+        <li>C Programming Programming Hub Certifies<a href="https://drive.google.com/file/d/1-KYLUoP4ohwv-4TjUdLkxefzZk5mekBu/view?usp=sharing">[Certificate]</a>
 
 <h3 align="left">Support:</h3>
     <p>
