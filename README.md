@@ -47,16 +47,16 @@
 <h3>Certificate</h3>
     <h4>CCC</h4>
         <ul>
-            <li> CCC Certificate S K Computer Academy<a href="https://drive.google.com/file/d/1-BPRRuUH1BnYgNfH6qnrzr9sb4lbgA5V/view?usp=sharing">[Certificate]</a></li>
+            <li> CCC Certificate S K Computer Academy <a href="https://drive.google.com/file/d/1-BPRRuUH1BnYgNfH6qnrzr9sb4lbgA5V/view?usp=sharing">[Certificate]</a></li>
         </ul>
     <h4>C Programming</h4>
         <ul>
-            <li>C Programming S K Computer Academy<a href="https://drive.google.com/file/d/1-PwN-hoBhsAU3rF1m3dMY0ByJvkkmqOm/view?usp=sharing">[Certificate]</a></li>
-            <li>C Programming Programming Hub Certifies<a href="https://drive.google.com/file/d/1-KYLUoP4ohwv-4TjUdLkxefzZk5mekBu/view?usp=sharing">[Certificate]</a></li>
+            <li>C Programming S K Computer Academy <a href="https://drive.google.com/file/d/1-PwN-hoBhsAU3rF1m3dMY0ByJvkkmqOm/view?usp=sharing">[Certificate]</a></li>
+            <li>C Programming Programming Hub Certifies <a href="https://drive.google.com/file/d/1-KYLUoP4ohwv-4TjUdLkxefzZk5mekBu/view?usp=sharing">[Certificate]</a></li>
         </ul>
     <h4>C++ Programming</h4>
         <ul>
-            <li>C++ Programming S K Computer Academy<a href="/Certificates/C++ Programming/Cpp.pdf">[Certificate]</a></li>
+            <li>C++ Programming S K Computer Academy <a href="https://drive.google.com/file/d/1-AkI8OX23Mdtn1AQ4eURsXzkOzMoca6X/view?usp=sharing">[Certificate]</a></li>
         </ul>
 
 <h3 align="left">Support:</h3>
