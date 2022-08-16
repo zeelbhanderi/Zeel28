@@ -43,7 +43,7 @@
         <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  -->
         <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  -->
     </p>
-
+<!-- Certificate section -->
 <h3>Certificate</h3>
     <h4>CCC</h4>
         <ul>
@@ -58,6 +58,11 @@
         <ul>
             <li>C++ Programming S K Computer Academy <a href="https://drive.google.com/file/d/1-AkI8OX23Mdtn1AQ4eURsXzkOzMoca6X/view?usp=sharing">[Certificate]</a></li>
         </ul>
+    <h4>Java Programming</h4>
+        <ul>
+            <li>Java(Basic) Certificate - HackerRank <a href="https://www.hackerrank.com/certificates/cbb4d5c4033c">[Certificate]</a></li>
+        </ul>
+
 
 <h3 align="left">Support:</h3>
     <p>
