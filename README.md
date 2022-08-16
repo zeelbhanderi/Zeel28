@@ -60,7 +60,11 @@
         </ul>
     <h4>Java Programming</h4>
         <ul>
-            <li>Java(Basic) Certificate - HackerRank <a href="https://www.hackerrank.com/certificates/cbb4d5c4033c">[Certificate]</a></li>
+            <li>Java(Basic) Certificate - <b>HackerRank</b> <a href="https://www.hackerrank.com/certificates/cbb4d5c4033c">[Certificate]</a></li>
+        </ul>
+    <h4>Web Design</h4>
+        <ul>
+            <li>Responsive Web Design - <b>freeCodeCamp</b> <a href="https://www.freecodecamp.org/certification/zeel_bhanderi/responsive-web-design">[Certificate]</a></li>
         </ul>
 
 
