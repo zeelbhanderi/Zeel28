@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeel Bhanderi</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning **Cpp and Java for (Competitive Programming)**
+- 🌱 I'm **Flutter Developer, Android Developer** from Gujarat, India.
+            I enjoy turning complex problems into simple, beautiful and intuitive solutions.
 - 📫 How to reach me **zeelbhanderi28@gmail.com**
 
 
