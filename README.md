@@ -60,30 +60,7 @@
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">]("playstorelink")
 ----- -->
-   
-<!-- Certificate section -->
-<h2>Certificate</h2>
-    <h4>CCC</h4>
-        <ul>
-            <li> CCC Certificate S K Computer Academy <a href="https://drive.google.com/file/d/1-BPRRuUH1BnYgNfH6qnrzr9sb4lbgA5V/view?usp=sharing">[Certificate]</a></li>
-        </ul>
-    <h4>C Programming</h4>
-        <ul>
-            <li>C Programming S K Computer Academy <a href="https://drive.google.com/file/d/1-PwN-hoBhsAU3rF1m3dMY0ByJvkkmqOm/view?usp=sharing">[Certificate]</a></li>
-            <li>C Programming Programming Hub Certifies <a href="https://drive.google.com/file/d/1-KYLUoP4ohwv-4TjUdLkxefzZk5mekBu/view?usp=sharing">[Certificate]</a></li>
-        </ul>
-    <h4>C++ Programming</h4>
-        <ul>
-            <li>C++ Programming S K Computer Academy <a href="https://drive.google.com/file/d/1-AkI8OX23Mdtn1AQ4eURsXzkOzMoca6X/view?usp=sharing">[Certificate]</a></li>
-        </ul>
-    <h4>Java Programming</h4>
-        <ul>
-            <li>Java(Basic) Certificate - <b>HackerRank</b> <a href="https://www.hackerrank.com/certificates/cbb4d5c4033c">[Certificate]</a></li>
-        </ul>
-    <h4>Web Design</h4>
-        <ul>
-            <li>Responsive Web Design - <b>freeCodeCamp</b> <a href="https://www.freecodecamp.org/certification/zeel_bhanderi/responsive-web-design">[Certificate]</a></li>
-        </ul>
+
 <br>
 <h2> 💰 Support by donating or sponsoring us.,</h2>
 <h3 align="left"></h3>
