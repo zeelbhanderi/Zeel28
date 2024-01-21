@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🌱 I'm **Flutter Developer, Android Developer** from Gujarat, India.
-            I enjoy turning complex problems into simple, beautiful and intuitive solutions.
+           I develop software using extraordinary abilities, strategy, and design to meet any obstacle.
 - 📫 How to reach me **zeelbhanderi28@gmail.com**
 
 
