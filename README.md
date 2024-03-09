@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeel Bhanderi</h1>
 
-- 🌱 I'm **Flutter Developer, Android Developer** from Gujarat, India.
-           I develop software using extraordinary abilities, strategy, and design to meet any obstacle.
-- 📫 How to reach me **zeelbhanderi28@gmail.com**
-
+- 🌱 I’m a Flutter developer with 3+ years of experience, I develop software using extraordinary abilities, strategy, and design to meet any obstacle. I have worked on a wide range of projects, from simple apps to complex enterprise-level solutions. I am constantly amazed by the power and flexibility of Flutter, and I believe that it is the future of mobile app development.
+- 📫 Let’s work together on your next project: **zeelbhanderi28@gmail.com**
 
 <!-- Social Media  -->
 
@@ -16,21 +14,12 @@
 <a href="https://medium.com/@zeelbhanderi28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeelbhanderi28" height="30" width="40" /></a>
 </p>
 
-<!-- Competitive Programming Pangs : -->
-<h2 align="left" >Competitive Programming :</h2>
-    <p>
-        <!-- <a href="https://www.codechef.com/users/zeel_bhanderi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/zeel_bhanderi" height="30" width="40" /></a> -->
-        <a href="https://www.hackerrank.com/zeelbhanderi28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/zeelbhanderi28" height="30" width="40" /></a>
-        <!-- <a href="https://leetcode.com/zeel_bhanderi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/zeel_bhanderi/" height="30" width="40" /></a> -->
-        <a href="https://auth.geeksforgeeks.org/user/zeelbhanderi28/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="https://auth.geeksforgeeks.org/user/zeelbhanderi28/profile" height="30" width="40" /></a>
-    </p>
-
-
 <h2 align="left">Languages and Tools:</h2>
     <p align="left">
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+        <a href="#" target="_blank" rel="noreferrer"> <img src="./image/bloc.png" alt="html5" width="40" height="40"/> </a>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -39,8 +28,8 @@
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-        <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
-        <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  -->
+        <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+         <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </p>
 
@@ -54,7 +43,7 @@
 
  -->
 
-<!-- ### 📱 Published Apps: 
+<!-- ### 📱 Published Apps:
 
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">]("playstorelink")
@@ -68,4 +57,3 @@
     </p><br><br>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeel28&show_icons=true&locale=en" alt="zeel28" /></p>
-
